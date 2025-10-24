@@ -5,16 +5,16 @@
     "Punchline": "Ya plugin.",
     "Description": "Ya plugin.",
     "InternalName": "Sheloya",
+    "AssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/Matchawolfer/Sheloya",
     "ApplicableVersion": "any",
     "IconUrl": "https://raw.githubusercontent.com/Matchawolfer/Sheloya/master/icon.png",
     "Tags": [
         ""
     ],
-    "RepoUrl": "https://github.com/Matchawolfer/Sheloya",
     "DalamudApiLevel": 13,
     "DownloadLinkTesting": "https://github.com/Matchawolfer/Sheloya/releases/download/0.0.0.1/Sheloya.zip",
     "DownloadLinkInstall": "https://github.com/Matchawolfer/Sheloya/releases/download/0.0.0.1/Sheloya.zip",
     "ChangeLog":  ""
   }
-
 ]
