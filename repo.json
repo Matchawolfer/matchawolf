@@ -1,0 +1,19 @@
+[
+  {
+    "Author": "Eyling",
+    "Name": "Sheloya",
+    "Punchline": "Ya plugin.",
+    "Description": "Ya plugin.",
+    "InternalName": "Sheloya",
+    "ApplicableVersion": "any",
+    "IconUrl": "",
+    "Tags": [
+        ""
+    ],
+    "RepoUrl": "",
+    "DalamudApiLevel": 13,
+    "DownloadLinkTesting": "",
+    "DownloadLinkInstall": "https://github.com/Matchawolfer/Sheloya/releases/download/0.0.0.1/Sheloya.zip",
+    "ChangeLog":  ""
+  }
+]
