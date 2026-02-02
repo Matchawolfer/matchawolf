@@ -22,7 +22,7 @@
     "Name": "Artisan-ya",
     "Punchline": "Artisan-ya.",
     "Description": "Fork from Artisan.",
-    "InternalName": "Artisan-ya",
+    "InternalName": "Artisan",
     "AssemblyVersion": "2.1.0.5",
     "RepoUrl": "https://github.com/Matchawolfer/Artisan-ya",
     "ApplicableVersion": "any",
@@ -37,6 +37,7 @@
   }
 
 ]
+
 
 
 
