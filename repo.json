@@ -21,7 +21,7 @@
     "Author": "Eyling",
     "Name": "Artisan-ya",
     "Punchline": "Artisan.",
-    "Description": "Artisan.",
+    "Description": "Fork from Artisan.",
     "InternalName": "Artisan",
     "AssemblyVersion": "2.1.05",
     "RepoUrl": "https://github.com/Matchawolfer/Artisan-ya",
@@ -30,10 +30,11 @@
     "Tags": [
         ""
     ],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "DownloadLinkTesting": "https://github.com/Matchawolfer/Artisan-ya/releases/download/2.1.05/Artisan-ya.zip",
     "DownloadLinkInstall": "https://github.com/Matchawolfer/Artisan-ya/releases/download/2.1.05/Artisan-ya.zip",
     "ChangeLog":  ""
   }
 
 ]
+
