@@ -23,7 +23,7 @@
     "Punchline": "Artisan-ya.",
     "Description": "Fork from Artisan.",
     "InternalName": "Artisan-ya",
-    "AssemblyVersion": "2.1.05",
+    "AssemblyVersion": "2.1.0.5",
     "RepoUrl": "https://github.com/Matchawolfer/Artisan-ya",
     "ApplicableVersion": "any",
     "IconUrl": "https://raw.githubusercontent.com/Matchawolfer/Sheloya/master/icon.png",
@@ -31,11 +31,12 @@
         ""
     ],
     "DalamudApiLevel": 14,
-    "DownloadLinkTesting": "https://github.com/Matchawolfer/Artisan-ya/releases/download/2.1.05/Artisan-ya.zip",
-    "DownloadLinkInstall": "https://github.com/Matchawolfer/Artisan-ya/releases/download/2.1.05/Artisan-ya.zip",
+    "DownloadLinkTesting": "https://github.com/Matchawolfer/Artisan-ya/releases/download/2.1.0.5/Artisan-ya.zip",
+    "DownloadLinkInstall": "https://github.com/Matchawolfer/Artisan-ya/releases/download/2.1.0.5/Artisan-ya.zip",
     "ChangeLog":  ""
   }
 
 ]
+
 
 
