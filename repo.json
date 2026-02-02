@@ -16,5 +16,24 @@
     "DownloadLinkTesting": "https://github.com/Matchawolfer/Sheloya/releases/download/0.0.0.1/Sheloya.zip",
     "DownloadLinkInstall": "https://github.com/Matchawolfer/Sheloya/releases/download/0.0.0.1/Sheloya.zip",
     "ChangeLog":  ""
+  },
+  {
+    "Author": "Eyling",
+    "Name": "Artisan-ya",
+    "Punchline": "Artisan.",
+    "Description": "Artisan.",
+    "InternalName": "Artisan",
+    "AssemblyVersion": "2.1.05",
+    "RepoUrl": "https://github.com/Matchawolfer/Artisan-ya",
+    "ApplicableVersion": "any",
+    "IconUrl": "https://raw.githubusercontent.com/Matchawolfer/Sheloya/master/icon.png",
+    "Tags": [
+        ""
+    ],
+    "DalamudApiLevel": 13,
+    "DownloadLinkTesting": "https://github.com/Matchawolfer/Artisan-ya/releases/download/2.1.05/Artisan-ya.zip",
+    "DownloadLinkInstall": "https://github.com/Matchawolfer/Artisan-ya/releases/download/2.1.05/Artisan-ya.zip",
+    "ChangeLog":  ""
   }
+
 ]
